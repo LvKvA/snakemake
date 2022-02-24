@@ -1,5 +1,12 @@
 # Changelog
 
+### [7.0.1](https://www.github.com/snakemake/snakemake/compare/v7.0.0...v7.0.1) (2022-02-24)
+
+
+### Documentation
+
+* Fix problems with code blocks and broken internal link. ([#1424](https://www.github.com/snakemake/snakemake/issues/1424)) ([5d4e7d8](https://www.github.com/snakemake/snakemake/commit/5d4e7d8c4d7901c41bfb8f01c4b2c6551add59f7))
+
 ## [7.0.0](https://www.github.com/snakemake/snakemake/compare/v6.15.5...v7.0.0) (2022-02-23)
 
 
